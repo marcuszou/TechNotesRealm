@@ -1,2 +1,9 @@
+.terraform
+.terraform.lock.hcl
+.obsidian
+.final
+.wip
+.credentials
+.env
 .DS_Store
 /temp/*
